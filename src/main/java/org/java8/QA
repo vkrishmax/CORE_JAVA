@@ -1,0 +1,6 @@
+1. whenIncrementSalaryForEachEmployee_thenApplyNewSalary
+2. whenMapIdToEmployees_thenGetEmployeeStream
+3. whenFilterEmployees_thenGetFilteredStream
+4. whenFindFirst_thenGetFirstEmployeeInStream
+5. whenStreamToArray_thenGetArray
+6. whenFlatMapEmployeeNames_thenGetNameStream
